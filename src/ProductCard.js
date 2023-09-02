@@ -1,13 +1,12 @@
 import React from 'react';
 import './ProductCard.css';
-
-
+import Path from './product-image.jpg';
 const ProductCard = (props) => {
   return (
     <div className="product-card">
       
 
-      <img src={props.image} alt={props.title} className="product-image" />
+      <img src={Path} alt={props.title} className="product-image" />
       <div className="product-details">
         <h2 className="product-title">{props.title}</h2>
         <p className="product-price">${props.price}</p>
