@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ReactApp/static/css/main.9c6c5fc1.css",
-    "main.js": "/ReactApp/static/js/main.61e7831d.js",
+    "main.js": "/ReactApp/static/js/main.cd4c777e.js",
     "static/js/787.16f177e3.chunk.js": "/ReactApp/static/js/787.16f177e3.chunk.js",
     "static/media/product-image.jpg": "/ReactApp/static/media/product-image.e3d686ee0b68fef12176.jpg",
     "static/media/hp.jpg": "/ReactApp/static/media/hp.933ad0af7292f0c24fad.jpg",
     "static/media/logo.svg": "/ReactApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ReactApp/index.html",
     "main.9c6c5fc1.css.map": "/ReactApp/static/css/main.9c6c5fc1.css.map",
-    "main.61e7831d.js.map": "/ReactApp/static/js/main.61e7831d.js.map",
+    "main.cd4c777e.js.map": "/ReactApp/static/js/main.cd4c777e.js.map",
     "787.16f177e3.chunk.js.map": "/ReactApp/static/js/787.16f177e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c6c5fc1.css",
-    "static/js/main.61e7831d.js"
+    "static/js/main.cd4c777e.js"
   ]
 }
