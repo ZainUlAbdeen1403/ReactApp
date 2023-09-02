@@ -1,6 +1,7 @@
 import React from 'react';
 import './ProductCard.css';
 
+
 const ProductCard = (props) => {
   return (
     <div className="product-card">
