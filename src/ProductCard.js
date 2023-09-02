@@ -6,7 +6,7 @@ const ProductCard = (props) => {
     <div className="product-card">
       
 
-      <img src={Path} alt={props.title} className="product-image" />
+      <img src={props.image} alt={props.title} className="product-image" />
       <div className="product-details">
         <h2 className="product-title">{props.title}</h2>
         <p className="product-price">${props.price}</p>
