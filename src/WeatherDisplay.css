@@ -1,0 +1,58 @@
+/* WeatherDisplay.css */
+
+.weather-container {
+  background: linear-gradient(45deg, #3498db, #8e44ad);
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 30px;
+  max-width: 400px;
+  margin: 0 auto;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+.location {
+  margin-bottom: 20px;
+}
+
+.location h2 {
+  font-size: 28px;
+  margin: 0;
+  font-weight: bold;
+  color: #f1c40f; /* Yellow accent color */
+}
+
+.location p {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.current-weather {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.current-weather h3 {
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 10px;
+  color: #f1c40f; /* Yellow accent color */
+}
+
+.weather-icon img {
+  max-width: 100px;
+  display: block;
+  margin: 0 auto;
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+}
+
+.weather-details p {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #fff;
+}
+
+/* Customize the styles as needed to achieve your desired stylish design */

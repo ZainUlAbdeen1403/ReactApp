@@ -4,7 +4,7 @@ import './apple.css';
 const AppleBenefits = () => {
   const appleBenefits = [
     'Rich in dietary fiber, which aids digestion.',
-    'Packed with essential vitamins and minerals.',
+    'Rich in dietary fiber, which aids digestion.',
     'Contain antioxidants that support overall health.',
     'May help lower the risk of heart disease.',
     'Can contribute to improved brain health.',
