@@ -8,7 +8,7 @@ const WeatherComponent = () => {
     const fetchData = async () => {
       try {
         const response = await fetch(
-          'https://weatherapi-com.p.rapidapi.com/current.json?q=51.5%2C-0.13',
+          'https://weatherapi-com.p.rapidapi.com/current.json?q=33.56,73.016914',
           {
             method: 'GET',
             headers: {

@@ -10,7 +10,7 @@ const ProductCard = (props) => {
       <div className="product-details">
         <h2 className="product-title">{props.title}</h2>
         <p className="product-price">${props.price}</p>
-        <button className="product-button">Learn More</button>
+        <button href='https://www.google.com/' className="product-button">Learn More</button>
         <div><button className="product-button">How to Code</button></div>
       </div>
     </div>
